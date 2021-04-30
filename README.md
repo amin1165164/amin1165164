@@ -1,4 +1,5 @@
 - ## Hi, I'm Muhammad Aminul Islam 👋
+- # I am a Web Designer and Developer
 - 👀 I’m interested in Web Developing
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
