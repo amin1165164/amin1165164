@@ -6,8 +6,7 @@
 
 
 ## Connect With me
-[![linkedin](https://user-images.githubusercontent.com/63308914/116735085-dfbf0000-aa0f-11eb-9073-957fb21d0206.png)
-](https://www.linkedin.com/in/aminul1802/)
+[linkedin](https://www.linkedin.com/in/aminul1802/)
 [Facebook](https://www.facebook.com/aminul0218)
 [Twiter](https://twitter.com/md_aminul1802)
 
